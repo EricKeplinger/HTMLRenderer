@@ -1,0 +1,13 @@
+# Kompilierte Klassen (IntelliJ-Build-Ausgabe)
+out/
+*.class
+
+# IntelliJ: persönliche Einstellungen
+.idea/workspace.xml
+.idea/shelf/
+.idea/usage.statistics.xml
+.idea/dictionaries/
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
